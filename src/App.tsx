@@ -50,7 +50,7 @@ and you make spending time together feel too short.`,
       image: "/character/six.png",
     },
     {
-      content: "Will you be my Valentine? (Don't take this too serious😏)",
+      content: "Will you be my Valentine?",
       image: "/character/seven.png",
     },
   ];
